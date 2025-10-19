@@ -1,6 +1,6 @@
 import arcade
 import plants
-from all.const import *
+from const import *
 
 
 
